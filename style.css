@@ -9,11 +9,7 @@ body{
     font-family: 'Dancing Script', cursive;
    
     color: var(--black);
-    background-image: url('images/coolHue.png');
-    height: 0;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-image: linear-gradient(yellow,red);
     margin: 0 auto;
     max-width: 85%;
     width: 100%;
